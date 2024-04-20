@@ -1,0 +1,134 @@
+*{
+    background-color: black;
+    padding: 0;
+    color: #F4F7F5;
+}
+
+#Name{
+    font-weight: bolder;
+    font-size: 70px;
+}
+
+#header{
+    text-align: center;
+    padding-top: 5%;
+    font-size: larger;
+
+}
+
+#connect{
+    float: right;
+    margin-right: 23px;
+    margin-top: 20px;
+    size 330p, 303px;
+}
+#body{
+    height:auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly
+
+}
+#left{
+    width: 50%;
+    height:100%;
+    border: 2px solid white;
+    padding: 10px;
+    padding-bottom: 3%;
+    margin: 30px;
+    border-radius: 50px;
+}
+
+#eduicon{
+    display: flex;
+    border-radius: 50px;
+    justify-content: center;
+}
+#right{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+
+}
+
+#rightup{
+    border: 2px solid white;
+    padding: 20px;
+    margin-bottom: 10px;
+    margin: 30px 30px 0px 30px;
+
+    border-radius: 50px;
+}
+#rightdown{
+    border: 2px solid white;
+    padding-bottom: 3%;
+    padding: 20px;
+    margin-top: 0px;
+    margin: 15px 30px;
+    border-radius: 50px;
+}
+#cert{
+    font-weight: 800;
+    display: flex;
+    justify-content: center;
+    padding-top: 0%;
+}
+
+#intrologo{
+    display: flex;
+    border-radius: 50px;
+    justify-content: center;
+    padding: 1%;padding-top: 0%;
+}
+#about{
+    display: flex;
+    justify-content: center;
+    padding: 1%;
+    font-size: larger;
+}
+#centre{
+    width: 30%;
+    height:100%;
+    border: 1px solid white;
+    padding: 10px;
+    margin: 10px;
+} 
+#mar{
+    padding: 16.5px;
+    background-color: #31363F;
+    text-transform: capitalize;
+    border-radius: 25px;
+    border-color: aqua;
+    border: solid;
+}
+
+#skill{
+    border: solid #F4F7F5;
+    
+}
+#scroll{
+    margin: 5%  0%;
+    display: flex;
+    flex-direction:  
+}
+
+#exp{
+    border: 2px solid white;
+    padding: 2%;
+    border-radius: 50px;
+    margin: 2%;
+}
+
+#explogo{
+    display: flex;
+    justify-content: center;
+}
+#lower{
+    border: 2px solid white;
+}
+
+#expe{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+}
